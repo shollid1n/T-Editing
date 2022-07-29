@@ -1,0 +1,43 @@
+body {
+  background: linear-gradient(
+    109.6deg,
+    rgb(72, 200, 160) 11.2%,
+    rgb(32, 40, 48) 91.3%
+  );
+
+  text-align: center;
+}
+
+.banner {
+  text-align: center;
+  border: 1px solid black;
+}
+
+.logo {
+  text-align: center;
+}
+h1 {
+  box-shadow: 10px 10px 20px;
+}
+
+a {
+  color: goldenrod;
+}
+
+a:hover {
+  color: red;
+}
+
+.btn-branding {
+  background: black;
+  border-radius: 4px;
+  color: black;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 10px 10px;
+  box-shadow: 10px 10px 20px;
+}
+
+.btn btn-branding {
+  color: black;
+}
